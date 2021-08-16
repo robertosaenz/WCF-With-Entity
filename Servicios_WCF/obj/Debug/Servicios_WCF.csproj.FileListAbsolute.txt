@@ -1,0 +1,12 @@
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\Servicios_WCF.dll.config
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\Servicios_WCF.dll
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\Servicios_WCF.pdb
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\EntityFramework.dll
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\EntityFramework.SqlServer.dll
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\EntityFramework.xml
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\bin\EntityFramework.SqlServer.xml
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\obj\Debug\Servicios_WCF.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\obj\Debug\Servicios_WCF.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\obj\Debug\Servicios_WCF.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\obj\Debug\Servicios_WCF.dll
+C:\Users\TOSHIBA\source\repos\Servicios_WCF\Servicios_WCF\obj\Debug\Servicios_WCF.pdb
